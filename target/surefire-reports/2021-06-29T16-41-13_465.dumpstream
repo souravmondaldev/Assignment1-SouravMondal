@@ -1,0 +1,4 @@
+# Created at 2021-06-29T16:41:13.928
+Boot Manifest-JAR contains absolute paths in classpath 'F:\psProject\practice repo psi batch9\week1-assignment-project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
